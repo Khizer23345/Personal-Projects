@@ -1,0 +1,8 @@
+Hi
+quit
+I am based on OpenAI's language model technology, with my responses being generated in the style of the GPT (Generative Pretrained Transformer) series. However, as an AI developed by OpenAI, I do not have a direct version number like "GPT-3" or another specific identifier that I can provide you. If you have questions or need assistance with information, feel free to ask, and I'll do my best to help!
+What was the last message I sent you?
+Which gpt modle are you?
+Hello! How can I assist you today?
+If you have any other questions in the future, don't hesitate to return. Have a great day! Goodbye!
+The last message you sent was "quit". How can I assist you further today?
